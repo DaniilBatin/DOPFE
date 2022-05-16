@@ -21,7 +21,7 @@
 - The project is written entirely in UIKit;
 - Used TabBarController, NavigationController;
 - Saving information is implemented through Realm;
-- AlertController used, as well as UIVIew Animation;
+- Used  AlertController, Animation;
 - Used TableView, PickerView;
 - Wrote a couple of UI Tests;
 - Added localization: Ukrainian, Russian;
