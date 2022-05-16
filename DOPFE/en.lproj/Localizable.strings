@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  DOPFE
+
+  Created by Daniil Batin on 12.05.2022.
+  
+*/
+
+"totalAmount" = "Total Amount:";
+"needToPay" = "You need to Pay:";
+"needToTake" = "You should return:";
+"information" = "The application was created for a group of people who have made purchases and need to calculate who should pay how much. Add people, purchases, choose who, how much money they threw off and what exactly they paid for. Count and enjoy the moments together.";
+"error" = "Error";
+"okay" = "Okey";
+"nameAlert" = "Please enter the person name";
+"productAlert" = "Please enter a product name and price";
+"uah" = "UAH";

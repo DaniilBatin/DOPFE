@@ -1,0 +1,117 @@
+
+/* Class = "UITextField"; placeholder = "Product name"; ObjectID = "0BW-50-rDt"; */
+"0BW-50-rDt.placeholder" = "Назва продукту";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "2ma-Zx-PsB"; */
+"2ma-Zx-PsB.configuration.title" = "Зберегти";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2ma-Zx-PsB"; */
+"2ma-Zx-PsB.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Calculate "; ObjectID = "5iN-Mc-BeB"; */
+"5iN-Mc-BeB.title" = "Підрахувати ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7ad-6E-ubg"; */
+"7ad-6E-ubg.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "How much money?"; ObjectID = "9Ia-Po-M95"; */
+"9Ia-Po-M95.placeholder" = "Скільки грошей?";
+
+/* Class = "UIButton"; configuration.title = "Restart"; ObjectID = "BlW-mg-Wvt"; */
+"BlW-mg-Wvt.configuration.title" = "Перезавантажити";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BlW-mg-Wvt"; */
+"BlW-mg-Wvt.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Who pays?"; ObjectID = "CR9-MQ-wYN"; */
+"CR9-MQ-wYN.title" = "Хто платить?";
+
+/* Class = "UILabel"; text = "Anyone paid for something product?"; ObjectID = "MA5-6a-tTx"; */
+"MA5-6a-tTx.text" = "Хтось платив за якийсь продукт?";
+
+/* Class = "UITextField"; placeholder = "Person name"; ObjectID = "MCE-I6-NV9"; */
+"MCE-I6-NV9.placeholder" = "Ім'я людини";
+
+/* Class = "UITabBarItem"; title = "Purchases"; ObjectID = "PzD-iI-H6p"; */
+"PzD-iI-H6p.title" = "Продукти";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vef-Mf-b62"; */
+"Vef-Mf-b62.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vwm-WV-EnP"; */
+"Vwm-WV-EnP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WNN-K4-GpB"; */
+"WNN-K4-GpB.text" = "Label";
+
+/* Class = "UILabel"; text = "Product name - who bought"; ObjectID = "Wof-f9-VRZ"; */
+"Wof-f9-VRZ.text" = "Назва продукта - хто купив";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "Wss-Kk-Poj"; */
+"Wss-Kk-Poj.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Wss-Kk-Poj"; */
+"Wss-Kk-Poj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZvZ-Zh-NvN"; */
+"ZvZ-Zh-NvN.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a0y-a8-1kb"; */
+"a0y-a8-1kb.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "People"; ObjectID = "bnU-Tz-8lg"; */
+"bnU-Tz-8lg.title" = "Люди";
+
+/* Class = "UILabel"; text = "You need to pay: "; ObjectID = "cea-f3-rsd"; */
+"cea-f3-rsd.text" = "Потрібно заплатити";
+
+/* Class = "UISegmentedControl"; eQ7-Tw-Jdz.segmentTitles[0] = "No"; ObjectID = "eQ7-Tw-Jdz"; */
+"eQ7-Tw-Jdz.segmentTitles[0]" = "Ні";
+
+/* Class = "UISegmentedControl"; eQ7-Tw-Jdz.segmentTitles[1] = "Yes"; ObjectID = "eQ7-Tw-Jdz"; */
+"eQ7-Tw-Jdz.segmentTitles[1]" = "Так";
+
+/* Class = "UILabel"; text = "Who has thrown money already?"; ObjectID = "ern-Za-jh3"; */
+"ern-Za-jh3.text" = "Хто вже скинув грощі?";
+
+/* Class = "UILabel"; text = "What did you buy and how much it cost? "; ObjectID = "g27-ci-vyu"; */
+"g27-ci-vyu.text" = "Що ви купили і скільки це коштує?";
+
+/* Class = "UIButton"; configuration.title = "?"; ObjectID = "gID-qe-z6w"; */
+"gID-qe-z6w.configuration.title" = "?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gID-qe-z6w"; */
+"gID-qe-z6w.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Enter the names of people in your company"; ObjectID = "jfr-ad-PRF"; */
+"jfr-ad-PRF.text" = "Введіть ім'я людини";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "klx-36-d64"; */
+"klx-36-d64.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "klx-36-d64"; */
+"klx-36-d64.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Total amount:"; ObjectID = "nuQ-y8-cOV"; */
+"nuQ-y8-cOV.text" = "Загальна вартість:";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "vK7-zK-s3x"; */
+"vK7-zK-s3x.placeholder" = "Ціна";
+
+/* Class = "UIButton"; configuration.title = "Tap if someone has already sent money"; ObjectID = "vyS-FB-k1v"; */
+"vyS-FB-k1v.configuration.title" = "Натисніть якщо хтось скинув грощі";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vyS-FB-k1v"; */
+"vyS-FB-k1v.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Start"; ObjectID = "wDg-Wj-xKz"; */
+"wDg-Wj-xKz.configuration.title" = "Старт";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wDg-Wj-xKz"; */
+"wDg-Wj-xKz.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "zaA-IB-d3V"; */
+"zaA-IB-d3V.configuration.title" = "Зберегти";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zaA-IB-d3V"; */
+"zaA-IB-d3V.normalTitle" = "Button";
