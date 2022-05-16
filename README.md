@@ -24,7 +24,7 @@
 - AlertController used, as well as UIVIew Animation;
 - Used TableView, PickerView;
 - Wrote a couple of UI Tests;
-- Added localization into languages: Ukrainian, Russian;
+- Added localization: Ukrainian, Russian;
 - Added Appicon, LaunchScreen;
 
 ## What else is planned to be implemented?
